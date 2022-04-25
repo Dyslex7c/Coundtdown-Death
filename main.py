@@ -6,7 +6,7 @@ from kivy.uix.label import Label
 from kivy.uix.popup import Popup
 from kivy.core.audio import SoundLoader
 
-years = 71
+years = randint(0, 100)
 days = randint(0, 364)
 hours = randint(0, 23)
 minutes = randint(0, 59)
