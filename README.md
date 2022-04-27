@@ -5,6 +5,8 @@ If you could find out exactly when you're going to die... would you want to know
 
 Based on a 2019 American supernatural horror film called 'Countdown' directed and written by Justin Dec
 
+<b>Disclaimer</b>: This app is for entertainment purposes. Results should not be taken seriously.
+
 # Plot /Diegesis
 At a party, teenager Courtney is convinced by her friends to download Countdown, an app that seemingly predicts how long a user has left to live. Courtney is startled to see it says she only has 3 hours and 22 minutes left to live. After avoiding getting into a car with her drunk boyfriend Evan, Courtney receives a notification stating she has broken the "user agreement". Returning home, she is attacked by an unseen entity and killed as her timer reaches zero. At the same time, Evan crashes his car and a tree branch impales the seat where Courtney would have been sitting.
 #
